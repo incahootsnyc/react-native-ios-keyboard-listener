@@ -1,6 +1,6 @@
 {
   "name": "react-native-ios-keyboard-listener",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Listens to iOS keyboard events",
   "main": "index.js",
   "scripts": {
