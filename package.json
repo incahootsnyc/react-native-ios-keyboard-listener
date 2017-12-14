@@ -1,0 +1,11 @@
+{
+  "name": "react-native-ios-keyboard-listener",
+  "version": "0.0.1",
+  "description": "Listens to iOS keyboard events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Val Geyvandov",
+  "license": "ISC"
+}
