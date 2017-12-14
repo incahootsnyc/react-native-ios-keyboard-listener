@@ -246,8 +246,8 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 48JX4XCM87;
 				HEADER_SEARCH_PATHS = (
-					"$(SRCROOT)/../../node_modules/react-native/React/**",
-					"$(SRCROOT)/../Pods/Headers/Public/**",
+					"$(SRCROOT)/../../react-native/React/**",
+					"$(SRCROOT)/../../../ios/Pods/Headers/Public/**",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -262,8 +262,8 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 48JX4XCM87;
 				HEADER_SEARCH_PATHS = (
-					"$(SRCROOT)/../../node_modules/react-native/React/**",
-					"$(SRCROOT)/../Pods/Headers/Public/**",
+					"$(SRCROOT)/../../react-native/React/**",
+					"$(SRCROOT)/../../../ios/Pods/Headers/Public/**",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
